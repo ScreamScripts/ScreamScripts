@@ -1,5 +1,4 @@
 # <p align="center">Oi, seja bem-vindo!<br /><img src="https://komarev.com/ghpvc/?username=LuzsSources1619&color=yellow&style=flat-square&label=Profile+Views" /></p>
-<p align="center">Desenvolvedora de extensões para o GTA SA-MP (Filterscript & Gamemode Programmer), estudante de JavaScript na biblioteca discord.js e amante do Sublime Text.</p>
 
 ## ❓ F.A.Q:
 ⭐ Disponível para novos projetos? Não.<br>
@@ -14,6 +13,6 @@
 
 <p align="center">
 	<a href="https://github.com/LuzsSources/LuzsSources">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuzsSources&repo=LuzsSources&hide_border=true&theme=dark&show_icons=true" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuzsSources&repo=LuzsSources&hide_border=true&theme=yellow&show_icons=true" />
 	</a>
 </p>
