@@ -1,4 +1,4 @@
-# <p align="center">Oi, seja bem-vindo!<br /><img src="https://komarev.com/ghpvc/?username=LuzsSources1619&color=yellow&style=flat-square&label=Profile+Views" /></p>
+# <p align="center">Oi, seja bem-vindo!<br /><img src="https://komarev.com/ghpvc/?username=ScreamScripts1619&color=yellow&style=flat-square&label=Visualizações" /></p>
 
 ## ❓ F.A.Q:
 ⭐ Disponível para novos projetos? Não.<br>
