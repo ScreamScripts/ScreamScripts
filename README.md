@@ -8,11 +8,3 @@
 ### 💻 &nbsp;Linguagens com conhecimento:
 ![Pawn](https://img.shields.io/badge/pawn-%23323330.svg?style=for-the-badge&logo=pawn&logoColor=yellow)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
-
-## 📂 Repositórios
-
-<p align="center">
-	<a href="https://github.com/ScreamScripts/ScreamScripts">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ScreamScripts&repo=LuzsSources&hide_border=true&theme=yellow&show_icons=true" />
-	</a>
-</p>
